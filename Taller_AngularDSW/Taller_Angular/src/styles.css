@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(36, 162, 184);
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo img {
+    width: 40px;
+    height: 35px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+header h2 {
+    margin-right: 1310px; 
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+
+
+.table{
+
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+
+
+
+
+
